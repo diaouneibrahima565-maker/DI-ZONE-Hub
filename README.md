@@ -4,6 +4,10 @@ DI-ZONE Hub is a modular Python desktop application designed to centralize and l
 
 Instead of having each DI-ZONE application operate as an unrelated desktop program, the Hub provides one central dashboard where applications can be accessed and managed.
 
+## Preview
+
+![DI-ZONE Hub Dashboard] (assets/dashboard.png.png)
+
 ## Current Version
 
 DI-ZONE Hub is currently in early development.
