@@ -1,0 +1,26 @@
+# Python generated files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# VS Code local configuration
+.vscode/
+
+# Runtime / temporary data
+logs/
+backups/
+
+# User-specific data
+profile.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Secrets / environement variables
+.env
+*.key

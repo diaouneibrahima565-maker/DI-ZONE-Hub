@@ -1,0 +1,10 @@
+[
+    {
+        "course_code": "CSCI 1301",
+        "course_name": "Principles of Computer Science I",
+        "credits": 4,
+        "grade": null,
+        "status": "Planned",
+        "semester": "Spring 2026"
+    }
+]
