@@ -6,31 +6,31 @@
 
 APPLICATIONS = [
     {
-        "name": "DI-ZONE Arena",
+        "name": "Vanguard",
         "description": "A futuristic tactical game.",
         "status": "Coming Soon",
         "path": None
     },
     {
-        "name": "DI-ZONE Finance",
+        "name": "Axiom",
         "description": "A personal finance management application.",
         "status": "Coming Soon",
         "path": None
     },
     {
-        "name": "DI-ZONE Social",
+        "name": "Synchro",
         "description": "A community and messaging platform.",
         "status": "Coming Soon",
         "path": None
     },
     {
-        "name": "DI-ZONE Student",
+        "name": "Student",
         "description": "A college planning and academic management application.",
         "status": "Planned",
         "path": None
     },
     {
-        "name": "D-Assistant",
+        "name": "Orion",
         "description": "A desktop assistant for the DI-ZONE ecosystem.",
         "status": "Coming Soon",
         "path": None

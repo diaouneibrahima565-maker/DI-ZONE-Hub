@@ -138,7 +138,7 @@ def show_student(content_frame):
 
     page_title_label = customtkinter.CTkLabel(
         content_frame,
-        text="DI-ZONE Student"
+        text="Student"
     )
     page_title_label.pack(pady=(30, 10))
 
@@ -154,7 +154,7 @@ def show_arena(content_frame):
 
     page_title_label = customtkinter.CTkLabel(
         content_frame,
-        text="DI-ZONE Arena"
+        text="Vanguard"
     )
     page_title_label.pack(pady=(30, 10))
 
@@ -170,7 +170,7 @@ def show_finance(content_frame):
 
     page_title_label = customtkinter.CTkLabel(
         content_frame,
-        text="DI-ZONE Finance"
+        text="Axiom"
     )
     page_title_label.pack(pady=(30, 10))
 
@@ -186,7 +186,7 @@ def show_social(content_frame):
 
     page_title_label = customtkinter.CTkLabel(
         content_frame,
-        text="DI-ZONE Social"
+        text="Synchro"
     )
     page_title_label.pack(pady=(30, 10))
 
@@ -202,7 +202,7 @@ def show_assistant(content_frame):
 
     page_title_label = customtkinter.CTkLabel(
         content_frame,
-        text="DI-ZONE AI Assistant"
+        text="Orion"
     )
     page_title_label.pack(pady=(30, 10))
 

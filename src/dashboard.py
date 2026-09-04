@@ -129,7 +129,7 @@ def build_dashboard(app):
 
     version_label = customtkinter.CTkLabel(
         master=status_bar_frame,
-        text="Version 1.0",
+        text="Version 0.1.0",
         fg_color="transparent"
     )
     version_label.grid(
@@ -213,7 +213,7 @@ def build_dashboard(app):
 
     arena_button = customtkinter.CTkButton(
         master=sidebar_frame,
-        text="Arena",
+        text="Vanguard",
         command=lambda: navigation.show_arena(content_frame)
     )
     arena_button.grid(
@@ -226,7 +226,7 @@ def build_dashboard(app):
 
     finance_button = customtkinter.CTkButton(
         master=sidebar_frame,
-        text="Finance",
+        text="Axiom",
         command=lambda: navigation.show_finance(content_frame)
     )
     finance_button.grid(
@@ -239,7 +239,7 @@ def build_dashboard(app):
 
     social_button = customtkinter.CTkButton(
         master=sidebar_frame,
-        text="Social",
+        text="Synchro",
         command=lambda: navigation.show_social(content_frame)
     )
     social_button.grid(
@@ -265,7 +265,7 @@ def build_dashboard(app):
 
     assistant_button = customtkinter.CTkButton(
         master=sidebar_frame,
-        text="D-Assistant",
+        text="Orion",
         command=lambda: navigation.show_assistant(content_frame)
     )
     assistant_button.grid(

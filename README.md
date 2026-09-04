@@ -10,7 +10,7 @@ Instead of having each DI-ZONE application operate as an unrelated desktop progr
 
 ## Current Version
 
-DI-ZONE Hub is currently in early development.
+**Version 0.1.0 - Early Development**
 
 The first functional version includes:
 
