@@ -6,7 +6,7 @@ Instead of having each DI-ZONE application operate as an unrelated desktop progr
 
 ## Preview
 
-![DI-ZONE Hub Dashboard] (assets/dashboard.png.png)
+![DI-ZONE Hub Dashboard](assets/dashboard.png.png)
 
 ## Current Version
 
